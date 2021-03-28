@@ -20,7 +20,7 @@ $ node folder_name/file_name.js
 2. Coming soon...
 
 
-### Signature
+## Signature
 Author: Trung Quân
 
 Blog: https://trungquandev.com/
