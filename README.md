@@ -12,14 +12,15 @@ My Utilities code collection for work &amp; training! - https://trungquandev.com
 ```
 $ git clone https://git_url_clone <project_dir>
 $ cd <project_dir>
-$ yarn install or npm install
-$ node file_name.js
+$ node folder_name/file_name.js
 ```
 
 ## Table of contents
 1. Order an array of objects based on another array order
 2. Coming soon...
 
+
+### Signature
 Author: Trung Quân
 
 Blog: https://trungquandev.com/
