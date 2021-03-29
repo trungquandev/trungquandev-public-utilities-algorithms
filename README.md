@@ -17,7 +17,8 @@ $ node folder_name/file_name.js
 
 ## Table of contents
 1. Order an array of objects based on another array order
-2. Coming soon...
+2. Sample Eslint config for React project
+3. Coming soon...
 
 
 ## Signature
