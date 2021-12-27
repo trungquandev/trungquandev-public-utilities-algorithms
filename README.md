@@ -1,4 +1,4 @@
-# trungquandev-public-utilities
+# trungquandev-public-utilities-algorithms
 My Utilities code collection for work &amp; training! - https://trungquandev.com
 
 ## Requirements
@@ -19,7 +19,8 @@ $ node folder_name/file_name.js
 1. Order an array of objects based on another array order
 2. Sample Eslint config for React project
 3. Sample Eslint config for Node.js project
-4. Coming soon...
+4. find-first-duplicate-value-of-array
+5. Coming soon...
 
 
 ## Signature
