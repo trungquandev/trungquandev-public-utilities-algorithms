@@ -1,0 +1,18 @@
+{
+  "name": "6-nodejs-send-email-oauth2-nodemailer",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "NodeJS send email with OAuth2 and Nodemailer",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "trungquandev.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "google-auth-library": "^8.0.2",
+    "nodemailer": "^6.7.5"
+  }
+}

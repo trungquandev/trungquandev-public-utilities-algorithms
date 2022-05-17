@@ -1,5 +1,5 @@
 # trungquandev-public-utilities-algorithms
-My Utilities code collection for work &amp; training! - https://trungquandev.com
+My Utility Projects for work &amp; training! - https://trungquandev.com
 
 ## Requirements
 
@@ -25,9 +25,10 @@ Just open file .html on your browser (I prefer Google Chrome than others)
 1. Order an array of objects based on another array order
 2. Sample Eslint config for React project
 3. Sample Eslint config for Node.js project
-4. find-first-duplicate-value-of-array
-5. pure-css-parallax-scrolling-effect
-6. Coming soon...
+4. Find First Duplicate Value of Array
+5. Pure CSS create Parallax Scrolling Effect
+6. NodeJS Send Email with OAuth2 and Nodemailer
+7. Coming soon...
 
 
 ## Signature
@@ -37,6 +38,6 @@ Blog: https://trungquandev.com/
 
 CV: https://cv.trungquandev.com/
 
-"A little bit of fragrance always clings to the hands that gives flowers!"
+"A bit of fragrance clings to the hand that gives flowers!"
 
 Thanks for watching!
