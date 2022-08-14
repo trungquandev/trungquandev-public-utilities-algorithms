@@ -1,0 +1,154 @@
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  background: #212534;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  box-sizing: border-box;
+}
+
+/* Customize type and color */
+.customizing {
+  margin-top: 80px;
+  color: white;
+  display: flex;
+  gap: 12px;
+}
+.customizing>span.general-type {
+  font-size: 1.2rem;
+  cursor: pointer;
+  padding: 4px 12px;
+  border: 1px solid #636e72;
+  border-radius: 4px;
+}
+.customizing>span.general-type:hover {
+  border-color: #f7f1e3;
+}
+
+.customizing>span.clear-bg {
+  color: #636e72;
+}
+.customizing>span.fire {
+  color: #d63031;
+}
+.customizing>span.water {
+  color: #3c67e3;
+}
+.customizing>span.wood {
+  color: #00b894;
+}
+.customizing>span.earth {
+  color: #cc8e35;
+}
+.customizing>span.metal {
+  color: #b2bec3;
+}
+
+/* My information and credit resources */
+.trungquandev-author {
+  margin-top: 40px;
+  color: white;
+}
+.sub-content {
+  font-size: 1.2rem;
+  text-align: center;
+  line-height: 1.6rem;
+}
+.sub-content a {
+  color: inherit;
+  text-decoration: none;
+  color: #1dd1a1;
+}
+.sub-content a:hover {
+  color: #55efc8;
+}
+
+/* Có thể hiểu đơn giản đây là một dạng khai báo biến nâng cao trong CSS, chưa support hết các trình duyệt */
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/@property */
+@property --rotate {
+  syntax: "<angle>";
+  initial-value: 0deg;
+  inherits: false;
+}
+
+@keyframes spin {
+  0% { --rotate: 0deg; }
+  100% { --rotate: 360deg; }
+}
+
+/* Magic Card */
+.magic-card {
+  background: #191c29;
+  width: 300px;
+  height: 450px;
+  padding: 3px;
+  position: relative;
+  border-radius: 6px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  display: flex;
+  font-size: 1.5em;
+  cursor: pointer;
+  font-family: cursive;
+}
+
+.magic-card::before {
+  content: "";
+  width: 106%;
+  height: 104%;
+  top: -2%;
+  left: -3%;
+  border-radius: 8px;
+  position: absolute;
+  z-index: -1;
+  animation: spin 1.5s linear infinite;
+  background-image: linear-gradient(var(--rotate), #81ecec, #00b894 48%);
+}
+
+.magic-card::after {
+  position: absolute;
+  content: "";
+  top: calc(450px / 6);
+  left: 0;
+  right: 0;
+  z-index: -1;
+  height: 100%;
+  width: 100%;
+  margin: 0 auto;
+  opacity: 1;
+  transition: opacity .5s;
+  transform: scale(.8);
+  filter: blur(calc(450px / 6));
+  animation: spin 1.5s linear infinite;
+  background-image: linear-gradient(var(--rotate), #81ecec, #00b894 48%);
+}
+
+.magic-card-raw {
+  background: none;
+}
+.magic-card-fire::before,
+.magic-card-fire::after {
+  background-image: linear-gradient(var(--rotate), #ff6b81, #d63031 48%);
+}
+.magic-card-water::before,
+.magic-card-water::after {
+  background-image: linear-gradient(var(--rotate), #5ddcff, #3c67e3 48%);
+}
+.magic-card-wood::before,
+.magic-card-wood::after {
+  background-image: linear-gradient(var(--rotate), #81ecec, #00b894 48%);
+}
+.magic-card-earth::before,
+.magic-card-earth::after {
+  background-image: linear-gradient(var(--rotate), #ffda79, #cc8e35 48%);
+}
+.magic-card-metal::before,
+.magic-card-metal::after {
+  background-image: linear-gradient(var(--rotate), #dfe6e9, #636e72 48%);
+}
