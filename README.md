@@ -39,6 +39,7 @@ Blog: https://trungquandev.com/
 
 CV: https://cv.trungquandev.com/
 
-"A bit of fragrance clings to the hand that gives flowers!"
+"Learning new everyday not the copy cat of yesterday!"
+"Qua một ngày, chúng ta học thêm được điều gì mới? Hay trở thành bản sao của ngày hôm qua?"
 
 Thanks for watching!
