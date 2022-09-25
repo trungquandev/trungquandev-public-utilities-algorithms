@@ -29,7 +29,8 @@ Just open file .html on your browser (I prefer Google Chrome than others)
 5. Pure CSS create Parallax Scrolling Effect
 6. NodeJS Send Email with OAuth2 and Nodemailer
 7. Magic Card By Pure Html CSS Javascript
-8. Coming soon...
+8. ReactJS Face Authentication using FaceIO (https://youtu.be/ZoxutS_kRC8)
+9. Coming soon...
 
 
 ## Signature
