@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.flex { display: flex; }
+.fdc { flex-direction: column; }
+.jcfc { justify-content: center; }
+.aic { align-items: center }
+.gap-10 { gap: 10px; }
+.basis-10 { flex-basis: 10%; }
+.basis-20 { flex-basis: 20%; }
+.basis-70 { flex-basis: 70%; }
+.mb-7 { margin-bottom: 7px; }
+
+.face-authentication-by-trungquandev {
+  height: 100vh;
+  width: 100vw;
+}
+
+.action {
+  cursor: pointer;
+  border: none;
+  background-color: #00b894;
+  padding: 15px 30px;
+  border-radius: 5px;
+  color: #ffffff;
+  margin-top: 20px;
+  font-size: 1rem;
+  font-weight: bold;
+}
+.action:hover {
+  background-color: #ff9f43;
+}
+
+/* My information and credit resources */
+.trungquandev-author {
+  margin-top: 40px;
+  padding: 15px 40px;
+  border: 1px solid #b2bec3;
+  border-radius: 10px;
+  width: 450px;
+  max-width: 70%;
+  font-size: 1rem;
+  line-height: 1.6rem;
+  word-break: break-word;
+  font-weight: bold;
+}
+
+.trungquandev-author a {
+  color: inherit;
+  text-decoration: none;
+  color: #00b894;
+}
+.trungquandev-author a:hover {
+  color: #ff9f43;
+}
+.trungquandev-author .icon {
+  max-width: 30px;
+}
