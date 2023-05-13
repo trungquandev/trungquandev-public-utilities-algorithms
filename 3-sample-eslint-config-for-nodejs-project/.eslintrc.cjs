@@ -19,11 +19,9 @@ module.exports = {
     'indent': ['warn', 2],
     'semi': [1, 'never'],
     'quotes': ['error', 'single'],
-
     'array-bracket-spacing': 1,
     'linebreak-style': 0,
     'no-unexpected-multiline': 'warn',
-
     'keyword-spacing': 1,
     'comma-dangle': 1,
     'comma-spacing': 1,
