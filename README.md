@@ -1,5 +1,5 @@
 # trungquandev-public-utilities-algorithms
-My Utility Projects for work &amp; training! - https://trungquandev.com
+My Utility Projects for work &amp; training! - https://youtube.com/@trungquandev
 
 ## Requirements
 
