@@ -30,7 +30,11 @@ Just open file .html on your browser (I prefer Google Chrome than others)
 6. NodeJS Send Email with OAuth2 and Nodemailer (https://trungquandev.com/nodejs-viet-api-gui-email-voi-oauth2-va-nodemailer/)
 7. Magic Card By Pure Html CSS Javascript (https://youtu.be/g-7h5pGC_4Q)
 8. ReactJS Face Authentication using FaceIO (https://youtu.be/ZoxutS_kRC8)
-9. Coming soon...
+9. Vite Absolute Relative Import (https://youtu.be/tcWFNrum7oE)
+10. Mock Data For Trello Board (https://youtu.be/4Hy9FsfQX10)
+11. Capitalize First Letter (https://youtu.be/4Hy9FsfQX10)
+12. Node Expressjs Handling Errors
+13. Coming soon...
 
 
 ## Signature
