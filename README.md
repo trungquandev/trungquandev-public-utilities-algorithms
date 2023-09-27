@@ -34,7 +34,8 @@ Just open file .html on your browser (I prefer Google Chrome than others)
 10. Mock Data For Trello Board (https://youtu.be/4Hy9FsfQX10)
 11. Capitalize First Letter (https://youtu.be/4Hy9FsfQX10)
 12. Node Expressjs Handling Errors
-13. Coming soon...
+13. String To Slug
+14. Coming soon...
 
 
 ## Signature
