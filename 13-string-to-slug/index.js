@@ -29,6 +29,6 @@ console.log('slug:', slug)
 /**
  * Results:
  * 
- * originalStringTest: 'TrungQuanDev Một Lập Trình Viên'
- * capString: trungquandev-mot-lap-trinh-vien
+ * Original String Test: 'TrungQuanDev Một Lập Trình Viên'
+ * Slug Result: trungquandev-mot-lap-trinh-vien
  */
