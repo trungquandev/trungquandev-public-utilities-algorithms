@@ -33,9 +33,10 @@ Just open file .html on your browser (I prefer Google Chrome than others)
 9. Vite Absolute Relative Import (https://youtu.be/tcWFNrum7oE)
 10. Mock Data For Trello Board (https://youtu.be/4Hy9FsfQX10)
 11. Capitalize First Letter (https://youtu.be/4Hy9FsfQX10)
-12. Node Expressjs Handling Errors
-13. String To Slug
-14. Coming soon...
+12. Node Expressjs Handling Errors (https://youtu.be/MBo1KUMbTBs)
+13. String To Slug (https://youtu.be/HRYBYQ8vsw4)
+14. Trello MongoDB Schemas
+15. Coming soon...
 
 
 ## Signature
