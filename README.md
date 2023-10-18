@@ -35,8 +35,9 @@ Just open file .html on your browser (I prefer Google Chrome than others)
 11. Capitalize First Letter (https://youtu.be/4Hy9FsfQX10)
 12. Node Expressjs Handling Errors (https://youtu.be/MBo1KUMbTBs)
 13. String To Slug (https://youtu.be/HRYBYQ8vsw4)
-14. Trello MongoDB Schemas
-15. Coming soon...
+14. Trello MongoDB Schemas (https://youtu.be/azEfTh7kWD4)
+15. CORS Options
+16. Coming soon...vv
 
 
 ## Signature
