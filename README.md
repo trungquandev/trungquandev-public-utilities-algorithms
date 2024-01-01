@@ -36,7 +36,7 @@ Just open file .html on your browser (I prefer Google Chrome than others)
 12. Node Expressjs Handling Errors (https://youtu.be/MBo1KUMbTBs)
 13. String To Slug (https://youtu.be/HRYBYQ8vsw4)
 14. Trello MongoDB Schemas (https://youtu.be/azEfTh7kWD4)
-15. CORS Options
+15. CORS Options (https://youtu.be/iYgAWJ2Djkw)
 16. Coming soon...vv
 
 
