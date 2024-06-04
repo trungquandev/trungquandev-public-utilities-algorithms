@@ -14,6 +14,6 @@ Router.route('/logout')
 
 // API Refresh Token - Cấp lại Access Token mới.
 Router.route('/refresh_token')
-  .get(userController.refreshToken)
+  .put(userController.refreshToken)
 
 export const userRoute = Router
