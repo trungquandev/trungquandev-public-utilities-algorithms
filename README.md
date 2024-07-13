@@ -37,7 +37,9 @@ Just open file .html on your browser (I prefer Google Chrome than others)
 13. String To Slug (https://youtu.be/HRYBYQ8vsw4)
 14. Trello MongoDB Schemas (https://youtu.be/azEfTh7kWD4)
 15. CORS Options (https://youtu.be/iYgAWJ2Djkw)
-16. Coming soon...vv
+16. Cơ chế xác thực AccessToken và RefreshToken tự động. Sử dụng JWT - Jsonwebtoken và Axios Interceptors chuẩn thực tế (https://youtu.be/XwQ-wxfCeJs)
+17. Xác thực với React + Auth0 SSO - Single Sign On chuẩn thực tế ()
+18. Coming soon...vv
 
 
 ## Signature

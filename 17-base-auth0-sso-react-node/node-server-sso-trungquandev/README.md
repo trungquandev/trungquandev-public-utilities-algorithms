@@ -1,14 +1,18 @@
-### Bộ code chuẩn để học về: "Cơ chế xác thực AccessToken và RefreshToken tự động". Sử dụng JWT - Jsonwebtoken và Axios Interceptors chuẩn thực tế.
+### Bộ code chuẩn để học về: "Xác thực với React + Auth0 SSO - Single Sign On" chuẩn thực tế trên kênh YouTube: https://youtube.com/@trungquandev
 
-- Playlist hướng dẫn chi tiết từ A-Z: https://www.youtube.com/playlist?list=PLP6tw4Zpj-RJwtNw9564QKFf93hWiDnR_
+- Playlist hướng dẫn chi tiết từ A-Z: updating...
 
 - Link Download Full Source Code hoàn chỉnh của cả bộ này và ủng hộ mình (Vui lòng đọc phần mô tả ở bất kỳ video nào trong Playlist trên để hiểu tại sao có 2 link bên dưới)
 
 - 🤝 Get Full Source Code for this Course here and support me 🍀
 
-- 🎁 on Ko-fi: https://ko-fi.com/s/706f63c3a7
+- 🎁 on Ko-fi: updating...
 
-- 🎁 on Buy Me a Coffee: https://buymeacoffee.com/codetq/e/264489
+- 🎁 on Buy Me a Coffee: updating...
+
+### Hướng dẫn clone Repo code này về máy các bạn chuẩn nhất ở đây nhé:
+
+- Link: updating...
 
 ### Requirements - Thông tin của bộ Code Base này - Chuẩn các phiên bản dưới đây để bắt đầu học: (Semantic Versioning)
 
