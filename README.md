@@ -38,7 +38,7 @@ Just open file .html on your browser (I prefer Google Chrome than others)
 14. Trello MongoDB Schemas (https://youtu.be/azEfTh7kWD4)
 15. CORS Options (https://youtu.be/iYgAWJ2Djkw)
 16. Cơ chế xác thực AccessToken và RefreshToken tự động. Sử dụng JWT - Jsonwebtoken và Axios Interceptors chuẩn thực tế (https://youtu.be/XwQ-wxfCeJs)
-17. Xác thực với React + Auth0 SSO - Single Sign On chuẩn thực tế ()
+17. Xác thực với React + Auth0 SSO - Single Sign On chuẩn thực tế (https://youtu.be/rcq7UeqCK_4)
 18. Coming soon...vv
 
 
