@@ -2,9 +2,9 @@
 My Utilities & Algorithms code library for work and training! - https://youtube.com/@trungquandev
 
 ## Table of contents
-1. Order an array of objects based on another array order
-2. Sample Eslint config for React project
-3. Sample Eslint config for Node.js project
+1. Order an array of objects based on another array order (https://youtu.be/4Hy9FsfQX10)
+2. Sample Eslint config for React project (https://youtu.be/vhdigVnPQV8)
+3. Sample Eslint config for Node.js project (https://youtu.be/8hhXamKIdsY)
 4. Find First Duplicate Value of Array (https://trungquandev.com/thuat-toan-tim-phan-tu-bi-lap-dau-tien-trong-mang-du-lieu/)
 5. Pure CSS create Parallax Scrolling Effect (https://youtu.be/9vQBecGbDZw)
 6. NodeJS Send Email with OAuth2 and Nodemailer (https://trungquandev.com/nodejs-viet-api-gui-email-voi-oauth2-va-nodemailer/)
