@@ -6,13 +6,13 @@
 
 - 🤝 Get Full Source Code for this Course here and support me 🍀
 
-- 🎁 on Ko-fi: updating...
+- 🎁 on Ko-fi: https://ko-fi.com/s/7451960d49
 
-- 🎁 on Buy Me a Coffee: updating...
+- 🎁 on Buy Me a Coffee: https://buymeacoffee.com/codetq/e/278473
 
 ### Hướng dẫn clone Repo code này về máy các bạn chuẩn nhất ở đây nhé:
 
-- Link: updating...
+- Link: https://youtu.be/IWxaHsNvThs
 
 ### Requirements - Thông tin của bộ Code Base này - Chuẩn các phiên bản dưới đây để bắt đầu học: (Semantic Versioning)
 
@@ -27,7 +27,7 @@
 
 ### About Me - Thông tin về mình:
 
-Author: **Trungquandev - Một Lập Trình Viên** & **CodeTQ**
+Author: **Trungquandev - Một Lập Trình Viên** & **CodeTQ - ASMR Programming**
 
 Blog: https://trungquandev.com/
 
@@ -35,7 +35,7 @@ CV: https://cv.trungquandev.com/
 
 YouTube 01 (Trungquandev - Một Lập Trình Viên): https://www.youtube.com/@trungquandev
 
-YouTube 02 (CodeTQ): https://www.youtube.com/@code-tq
+YouTube 02 (CodeTQ - ASMR Programming): https://www.youtube.com/@code-tq
 
 "Learning new everyday not the copycat of yesterday!"
 
