@@ -1,25 +1,5 @@
 # trungquandev-public-utilities-algorithms
-My Utility Projects for work &amp; training! - https://youtube.com/@trungquandev
-
-## Requirements
-
-* **nodejs >= v14.7.0**
-* **npm >= v6.14.7**
-* **yarn >= v1.19.1**
-
-## Clone project and run (for only Javascript files)
-
-```
-$ git clone https://git_url_clone <project_dir>
-$ cd <project_dir>
-$ node folder_name/file_name.js
-```
-
-## Clone project and run (for HTML - CSS files)
-
-```
-Just open file .html on your browser (I prefer Google Chrome than others)
-```
+My Utilities & Algorithms code library for work and training! - https://youtube.com/@trungquandev
 
 ## Table of contents
 1. Order an array of objects based on another array order
@@ -39,18 +19,24 @@ Just open file .html on your browser (I prefer Google Chrome than others)
 15. CORS Options (https://youtu.be/iYgAWJ2Djkw)
 16. Cơ chế xác thực AccessToken và RefreshToken tự động. Sử dụng JWT - Jsonwebtoken và Axios Interceptors chuẩn thực tế (https://youtu.be/XwQ-wxfCeJs)
 17. Xác thực với React + Auth0 SSO - Single Sign On chuẩn thực tế (https://youtu.be/rcq7UeqCK_4)
-18. Coming soon...vv
+18. Xây dựng ứng dụng xác thực 2 lớp: Two-Factor Authentication (2FA) (Link: In Progress)
+19. Coming soon...vv
 
 
-## Signature
-Author: Trung Quân
+## About Me - Thông tin về mình:
+
+Author: **Trungquandev - Một Lập Trình Viên** & **CodeTQ**
 
 Blog: https://trungquandev.com/
 
 CV: https://cv.trungquandev.com/
 
+YouTube 01 (Trungquandev - Một Lập Trình Viên): https://www.youtube.com/@trungquandev
+
+YouTube 02 (CodeTQ): https://www.youtube.com/@code-tq
+
 "Learning new everyday not the copycat of yesterday!"
 
-"Qua một ngày, chúng ta học thêm được điều gì mới? Hay trở thành bản sao của ngày hôm qua?"
+"A bit of fragrance clings to the hand that gives flowers!"
 
 Thanks for watching!
