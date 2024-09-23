@@ -23,7 +23,7 @@
 
 ### About Me - Thông tin về mình:
 
-Author: **Trungquandev - Một Lập Trình Viên** & **CodeTQ**
+Author: **[Trungquandev - Một Lập Trình Viên](https://www.youtube.com/@trungquandev)** & **[CodeTQ - ASMR Programming](https://www.youtube.com/@code-tq)**
 
 Blog: https://trungquandev.com/
 
