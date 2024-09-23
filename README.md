@@ -25,7 +25,7 @@ My Utilities & Algorithms code library for work and training! - https://youtube.
 
 ## About Me - Thông tin về mình:
 
-Author: **Trungquandev - Một Lập Trình Viên** & **CodeTQ - ASMR Programming**
+Author: **[Trungquandev - Một Lập Trình Viên](https://www.youtube.com/@trungquandev)** & **[CodeTQ - ASMR Programming](https://www.youtube.com/@code-tq)**
 
 Blog: https://trungquandev.com/
 
