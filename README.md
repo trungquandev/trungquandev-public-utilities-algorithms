@@ -21,7 +21,8 @@ My Utilities & Algorithms code library for work and training! - https://youtube.
 17. Xác thực với React + Auth0 SSO - Single Sign On chuẩn thực tế (https://youtu.be/rcq7UeqCK_4)
 18. Xây dựng ứng dụng xác thực 2 lớp: Two-Factor Authentication (2FA) (https://youtu.be/1oW1K_yI_7E?si=-a1Zgbb7w1kJwTBK)
 19. Gửi nhận Email với NodeJS - EaaS: Email as a Service (https://youtu.be/_8oXROvc984?si=2gnTqgM7HNejGlRV)
-20. Coming soon...vv
+20. Gửi SMS với NodeJS Back-end (Updating...)
+21. Coming soon...vv
 
 ---
 

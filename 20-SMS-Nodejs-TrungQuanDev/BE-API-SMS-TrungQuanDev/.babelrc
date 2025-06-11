@@ -1,0 +1,10 @@
+/**
+ * TrungQuanDev: https://youtube.com/@trungquandev
+ */
+{
+  "presets": ["@babel/preset-env"],
+  "plugins": [
+    ["@babel/transform-runtime"],
+    ["module-resolver", { "alias": { "~": "./src" } }]
+  ]
+}
