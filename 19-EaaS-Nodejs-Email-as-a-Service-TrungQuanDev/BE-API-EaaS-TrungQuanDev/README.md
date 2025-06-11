@@ -6,9 +6,9 @@
 
 - 🤝 Get Full Source Code for this Course here and support me 🍀
 
-- 🎁 on Ko-fi: updating...
+- 🎁 on Ko-fi: https://ko-fi.com/s/7bbb3830ab
 
-- 🎁 on Buy Me a Coffee: updating...
+- 🎁 on Buy Me a Coffee: https://buymeacoffee.com/codetq/e/418636
 
 ### Hướng dẫn clone Repo code này về máy các bạn chuẩn nhất ở đây nhé:
 
