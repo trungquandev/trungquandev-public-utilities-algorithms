@@ -1,6 +1,6 @@
 ### Bộ code chuẩn để học về: Xây dựng ứng dụng bảo mật, xác thực 2 lớp Two-Factor Authentication (2FA) chuẩn thực tế trên kênh YouTube: https://youtube.com/@trungquandev
 
-- Playlist hướng dẫn chi tiết từ A-Z: updating...
+- Playlist hướng dẫn chi tiết từ A-Z: https://www.youtube.com/playlist?list=PLP6tw4Zpj-RJl6tBISeGvE5fr7G0jhMk1
 
 - Link Download Full Source Code hoàn chỉnh của cả bộ này và ủng hộ mình (Vui lòng đọc phần mô tả ở bất kỳ video nào trong Playlist trên để hiểu tại sao có 2 link bên dưới)
 

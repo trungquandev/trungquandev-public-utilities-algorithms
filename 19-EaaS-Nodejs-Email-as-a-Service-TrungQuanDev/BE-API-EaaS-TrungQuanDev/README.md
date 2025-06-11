@@ -1,6 +1,6 @@
 ### Bộ code chuẩn để học: Gửi nhận Email với NodeJS - Email as a Service | TrungQuanDev.
 
-- Playlist hướng dẫn chi tiết từ A-Z: updating...
+- Playlist hướng dẫn chi tiết từ A-Z: https://www.youtube.com/playlist?list=PLP6tw4Zpj-RKPiG4x7gLnhuP8tR2Xv64k
 
 - Link Download Full Source Code hoàn chỉnh của cả bộ này và ủng hộ mình (Vui lòng đọc phần mô tả ở bất kỳ video nào trong Playlist trên để hiểu tại sao có 2 link bên dưới)
 
