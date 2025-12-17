@@ -1,0 +1,3 @@
+/** Author: @trungquandev (TrungQuanDev - Một Lập Trình Viên) - https://youtube.com/@trungquandev */
+
+// Sau này xử lý gửi email thông qua MailerSend API tại đây...

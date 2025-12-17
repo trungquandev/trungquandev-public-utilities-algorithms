@@ -1,0 +1,113 @@
+# ============================================================
+# 🚀 STANDARD GITIGNORE for Node.js + TypeScript + Jest Project
+# ============================================================
+
+# ------------------------
+# Node & Dependencies
+# ------------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+
+# ------------------------
+# Build outputs
+# ------------------------
+dist/
+build/
+.tmp/
+.temp/
+coverage/
+.out/
+logs/
+*.log
+*.tsbuildinfo
+
+# ------------------------
+# TypeScript
+# ------------------------
+# TSC cache + incremental files
+*.tsbuildinfo
+
+# Local testing, compiled artifacts, transpiled JS
+**/*.js
+**/*.js.map
+dist/
+dist/**/*.d.ts
+
+# ------------------------
+# Environment & config
+# ------------------------
+.env
+.env.development
+.env.production
+.env.test
+.env.local
+.env.*.local
+
+# Do not ignore example env
+!.env.example
+
+# ------------------------
+# IDE / Editor
+# ------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.swm
+
+# ------------------------
+# OS specific
+# ------------------------
+.DS_Store
+Thumbs.db
+
+# ------------------------
+# Jest / Testing
+# ------------------------
+coverage/
+jest-report/
+reports/
+.nyc_output/
+test-results.xml
+
+# ------------------------
+# Docker / Containers
+# ------------------------
+docker-compose.override.yml
+docker-compose.local.yml
+.docker/
+*.pid
+*.seed
+*.pid.lock
+
+# ------------------------
+# Misc
+# ------------------------
+/debug.log
+/.eslintcache
+/.tscache
+/.turbo
+/.cache
+/.parcel-cache
+/.vite
+.next/
+.nuxt/
+.vercel/
+firebase-debug.log
+lerna-debug.log
+out/
+*.local
+*.tgz
+
+# ------------------------
+# Optional:
+# keep useful examples
+# ------------------------
+# !.env.example
+# !src/**/*.example.ts

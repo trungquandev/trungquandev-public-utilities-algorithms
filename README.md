@@ -22,8 +22,9 @@ My Utilities & Algorithms code library for work and training! - https://youtube.
 18. Xây dựng ứng dụng xác thực 2 lớp: Two-Factor Authentication (2FA) (https://youtu.be/1oW1K_yI_7E?si=-a1Zgbb7w1kJwTBK)
 19. Gửi nhận Email với NodeJS - EaaS: Email as a Service (https://youtu.be/_8oXROvc984?si=2gnTqgM7HNejGlRV)
 20. Gửi SMS với NodeJS Back-end (https://youtu.be/gaIPjEgVsdk)
-21. Unit Test với React + TypeScript + Jest - Dự án thực tế, nâng cao, chuyên nghiệp https://www.youtube.com/playlist?list=PLP6tw4Zpj-RKmOgzS2e89qiw9aCXfER7u
-22. Coming soon...vv
+21. Unit Test Front-end với React + TypeScript + Jest - Dự án thực tế, nâng cao, chuyên nghiệp https://www.youtube.com/playlist?list=PLP6tw4Zpj-RKmOgzS2e89qiw9aCXfER7u
+22. Unit Test back-end với NodeJS + TypeScript + Jest - Dự án thực tế, nâng cao, chuyên nghiệp
+23. Coming soon...vv
 
 ---
 

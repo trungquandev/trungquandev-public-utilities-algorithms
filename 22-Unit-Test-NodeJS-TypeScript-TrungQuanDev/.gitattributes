@@ -1,0 +1,80 @@
+# ============================================================
+# 🚀 .GITATTRIBUTES — Standard for Node.js + TypeScript Project
+# ============================================================
+
+# ------------------------
+# Default line endings
+# ------------------------
+# Always use LF line endings for cross-platform consistency
+* text=auto eol=lf
+
+# ------------------------
+# Source code (UTF-8 + diff)
+# ------------------------
+*.ts     text diff=typescript
+*.tsx    text diff=typescript
+*.js     text diff=javascript
+*.jsx    text diff=javascript
+*.json   text diff=json
+*.yml    text diff=yaml
+*.yaml   text diff=yaml
+*.html   text diff=html
+*.css    text diff=css
+*.scss   text diff=css
+*.md     text diff=markdown
+*.mdx    text diff=markdown
+
+# ------------------------
+# Treat documentation and text files as UTF-8
+# ------------------------
+*.txt    text
+*.csv    text
+*.env    text
+*.example text
+
+# ------------------------
+# Binary files (no diff)
+# ------------------------
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.svg binary
+*.pdf binary
+*.zip binary
+*.gz binary
+*.tar binary
+*.tgz binary
+*.ttf binary
+*.woff binary
+*.woff2 binary
+*.mp4 binary
+*.mp3 binary
+*.mov binary
+*.avi binary
+
+# ------------------------
+# Lock files (always LF)
+# ------------------------
+package-lock.json text eol=lf
+yarn.lock         text eol=lf
+pnpm-lock.yaml    text eol=lf
+
+# ------------------------
+# GitHub Linguist overrides (for language stats)
+# ------------------------
+# Exclude build and dependencies from GitHub language stats
+dist/* linguist-vendored
+node_modules/* linguist-vendored
+coverage/* linguist-vendored
+
+# ------------------------
+# Custom merge / diff behaviors
+# ------------------------
+# TypeScript diff driver (optional, if installed)
+# You can define in .git/config:
+#   [diff "typescript"]
+#       xfuncname = "^(\\s*(export\\s+)?(async\\s+)?(function|class|const|let|var)\\s+[a-zA-Z0-9_]+)"
+#
+# Or install via: git config --global diff.typescript.xfuncname ...
