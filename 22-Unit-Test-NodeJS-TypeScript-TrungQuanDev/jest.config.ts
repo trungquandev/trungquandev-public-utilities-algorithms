@@ -7,5 +7,6 @@ const config: Config = {
   moduleNameMapper: { '^~/(.*)$': '<rootDir>/src/$1' },
   setupFilesAfterEnv: ['<rootDir>/tests/jest.setup.ts'], // Khai báo file jest.setup.ts sẽ chạy sau khi Jest khởi tạo môi trường test ENV.
   collectCoverageFrom: ['src/**/*.{ts,tsx}', '!src/**/index.ts'],
-};
+}
+
 export default config
