@@ -1,13 +1,14 @@
 {
   "compilerOptions": {
-    "target": "ES2021",
-    "lib": ["ES2021"],
+    "target": "ES2022",
+    "lib": ["ES2022"],
     "module": "CommonJS",
     "moduleResolution": "node",
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
     "skipLibCheck": true,
+    // Relative imports - TrungQuanDev Note: Dành cho chạy test cần thêm ở đây nữa
     "baseUrl": ".",
     "paths": {
       "~/*": ["src/*"]
