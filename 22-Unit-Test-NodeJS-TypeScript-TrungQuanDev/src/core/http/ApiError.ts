@@ -6,6 +6,7 @@ export class ApiError extends Error {
   details?: unknown
 
   constructor(statusCode: number, message: string, details?: unknown) {
+    // Message cần truyền vào super() để class Error gốc có thể khởi tạo đúng cách và sử dụng được đầy đủ Error.captureStackTrace
     super(message)
     this.statusCode = statusCode
     this.details = details
