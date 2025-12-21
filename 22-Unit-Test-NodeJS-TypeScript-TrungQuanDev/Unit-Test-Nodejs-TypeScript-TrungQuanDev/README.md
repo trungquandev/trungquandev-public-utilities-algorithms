@@ -1,4 +1,4 @@
-# Advanced Express API (TypeScript) — MongoDB Native + ESLint
+# Advanced Express API (TypeScript) — MongoDB Native + ESLint - TrungQuanDev
 
 Back-end template for large-scale, modular Express API:
 - TypeScript
@@ -24,7 +24,7 @@ Endpoints example:
 
 ### About Me - Thông tin về mình:
 
-Author: **Trungquandev - Một Lập Trình Viên** & **CodeTQ**
+Author: **TrungQuanDev - Một Lập Trình Viên** & **CodeTQ**
 
 Blog: https://trungquandev.com/
 
