@@ -1,3 +1,5 @@
+/** Author: @trungquandev (TrungQuanDev - Một Lập Trình Viên) - https://youtube.com/@trungquandev */
+
 import { MongoClient, Db, Collection, OptionalId } from 'mongodb'
 
 import { logger } from './logger'

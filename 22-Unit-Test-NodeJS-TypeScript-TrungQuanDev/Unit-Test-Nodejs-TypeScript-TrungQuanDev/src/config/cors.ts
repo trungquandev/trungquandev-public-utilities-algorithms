@@ -6,7 +6,7 @@ import { env } from '~/config/env'
 
 const allowedOrigins = env.CORS_ORIGINS.split(',').map(o => o.trim())
 
-// ✅ Cấu hình CORS chi tiết
+// Cấu hình CORS chi tiết
 const corsOptions: CorsOptions = {
   origin(origin, callback) {
     // Cho phép nếu không có origin (ví dụ Postman, curl)
@@ -15,7 +15,7 @@ const corsOptions: CorsOptions = {
     if (allowedOrigins.includes(origin)) {
       return callback(null, true)
     }
-    // 🚫 Nếu domain không được phép
+    // Nếu domain không được phép
     callback(new Error(`Origin ${origin} not allowed by CORS`))
   },
   credentials: true, // cho phép gửi cookies/authorization header
