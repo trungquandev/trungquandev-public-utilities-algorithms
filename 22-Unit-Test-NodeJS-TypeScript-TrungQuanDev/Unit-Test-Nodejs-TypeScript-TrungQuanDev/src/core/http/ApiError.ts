@@ -10,8 +10,8 @@ export class ApiError extends Error {
     super(message)
     this.statusCode = statusCode
     this.details = details
-    Object.setPrototypeOf(this, new.target.prototype)
-    Error.captureStackTrace(this, this.constructor)
+    Object.setPrototypeOf(this, new.target.prototype) // Tránh lỗi prototype chain khi kế thừa từ Error (built-in object của JavaScript)
+    Error.captureStackTrace(this, this.constructor) // Làm gọn gàng stack trace, dễ đọc, dễ debug
   }
 
   /** 400 Bad Request — Dữ liệu đầu vào không hợp lệ */
