@@ -1,6 +1,6 @@
 /** Author: @trungquandev (TrungQuanDev - Một Lập Trình Viên) - https://youtube.com/@trungquandev */
 
-import type { Request, Response, NextFunction, RequestHandler } from "express"
+import type { RequestHandler } from "express"
 
 /**
  * Cách bọc toàn bộ Controller để Clean Code:
@@ -12,8 +12,8 @@ import type { Request, Response, NextFunction, RequestHandler } from "express"
  * Nếu fn throw hoặc reject Promise > lỗi tự động chạy vào next(error) > đi xuống global error middleware.
  * Không cần try/catch thủ công ở mọi controller nữa.
  */
-export function asyncHandler(handler: (req: Request, res: Response, next: NextFunction) => Promise<any>): RequestHandler {
+export function asyncHandler(handler: RequestHandler): RequestHandler {
   return (req, res, next) => {
-    handler(req, res, next).catch(next)
+    return Promise.resolve(handler(req, res, next)).catch(next)
   }
 }
