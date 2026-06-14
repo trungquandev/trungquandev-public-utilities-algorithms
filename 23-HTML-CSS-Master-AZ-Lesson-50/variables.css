@@ -1,0 +1,93 @@
+/* TrungQuanDev - Một lập trình viên */
+
+:root {
+  /* Các mã màu chung */
+  --color-white: #ffffff;
+  --bg-color: #ebd7c2;
+  --text-dark: #27201b;
+  --color-yellow: #fcee21;
+  --color-orange: #f58220;
+  --color-green: #8cc63f;
+  --color-teal: #00a99d;
+  --color-red: #ed1c24;
+  --color-dark-teal: #29aba4;
+
+  /* Các mã màu của phần Interests */
+  --icon-gamepad: #ed1c24;
+  --icon-tv: #f58220;
+  --icon-globe: #00a99d;
+  --icon-palette: #e91e63;
+  --icon-music: #9c27b0;
+  --icon-book: #8cc63f;
+  --icon-camera: #3f51b5;
+  --icon-dumbbell: #ff5722;
+  --icon-coffee: #795548;
+  --icon-code: #009688;
+  --icon-plane: #2196f3;
+  --icon-futbol: #4caf50;
+  --icon-headphones: #673ab7;
+  --icon-utensils: #ff9800;
+
+  /* Các mã màu của phần Abilities */
+  --icon-frontend: #40B883;
+  --icon-backend: #00bcd4;
+  --icon-database: #009688;
+  --icon-devops: #ffc107;
+  --icon-architecture: #4FAA41;
+  --icon-testing: #E54D26;
+  --icon-security: #e91e63;
+  --icon-performance: #03a9f4;
+  --icon-api: #5FA04E;
+  --icon-git: #00bcd4;
+  --icon-responsive: #009688;
+  --icon-agile: #ffc107;
+  --icon-cicd: #0052CC;
+  --icon-cache-queue: #FCEE30;
+  --icon-refactor: #e91e63;
+  --icon-youtube: #FF0000;
+
+  /* Khai báo màu rgba khi cần quản lý về độ trong suốt của màu lúc hiển thị trên trang */
+  --bg-white-soft: rgba(255, 255, 255, 0.4);
+  --border-radius-sm: 6px;
+  --border-radius-md: 12px;
+  /*
+    Làm chuyển động css transform scale (phóng to / thu nhỏ) mượt mà hơn
+    0.2s: Thời gian diễn ra chuyển động
+    ease: Hiệu ứng sẽ bắt đầu hơi chậm, sau đó tăng tốc nhanh ở giữa, và cuối cùng là giảm tốc trước khi dừng lại.
+  */
+  --transition-scale: transform 0.2s ease;
+
+  /*
+    Dùng cho box shadow. Các giá trị có ý nghĩa lần lượt:
+    2px đầu tiên: Độ lệch bóng theo trục ngang X, ở đây giá trị dương nên bóng sẽ lệch sang bên phải (ngược lại giá trị âm thì lệch sang trái)
+    2px thứ hai: Độ lệch bóng theo trục ngang Y, ở đây giá trị dương nên bóng sẽ lệch xuống bên dưới (ngược lại giá trị âm thì lệch lên trên)
+    10px: Độ nhòe (blur) của bóng, giá trị càng lớn thì bóng sẽ càng nhòe và lan rộng ra.
+    rgba(1, 0, 0, 0.05): Màu sắc của dải bóng.
+  */
+  --shadow-box: 2px 2px 10px rgba(1, 0, 0, 0.05);
+  --shadow-bubble: 2px 2px 5px rgba(0, 0, 0, 0.1);
+
+  /*
+    Tạo style kiểu một trang giấy:
+    repeating-linear-gradient: Dải màu tuyến tính lặp lại.
+    - Từ #ffffff đến #ffffff 23px (Giai đoạn 1): Trình duyệt sẽ tô màu Trắng (#ffffff) bắt đầu từ vị trí 0px cho đến vị trí 23px, lúc này chúng ta sẽ có khoảng trống màu trắng có độ cao đúng 23px để có không gian viết chữ lên dòng.
+    - Từ #e0e0e0 23px đến #e0e0e0 24px (Giai đoạn 2): Tạo một đường kẻ ngang xám nhạt đúng 1px (là khoảng cách từ 23px đến 24px), chúng ta có được một đường kẻ dòng của trang giấy.
+    - kết hợp với repeating nghĩa là lặp lại liên tục 2 giai đoạn trên và chúng ta sẽ thu được style kiểu một trang giấy.
+  */
+  --paper-bg: repeating-linear-gradient(
+    #ffffff,
+    #ffffff 23px,
+    #e0e0e0 23px,
+    #e0e0e0 24px
+  );
+
+  /* Biến Typography (Cỡ chữ) */
+  /*
+    Font chủ đạo là Open Sans, nếu lỗi mạng hoặc bất kỳ lý do không tải được font về thì sans-serif sẽ được sử dụng.
+    sans-serif: không phải là tên một font chữ cụ thể, mà là tên của một Họ font (Generic Font Family), trình duyệt sẽ tự động lấy một font chữ có sẵn trong máy người dùng (ví dụ: Arial trên Windows, hoặc Helvetica trên Mac/iPhone) để hiển thị thay thế.
+  */
+  --font-main: "Open Sans", sans-serif;
+  --font-heading: "Montserrat", sans-serif;
+  --font-handwriting: "Caveat", cursive; /* Font kiểu chữ viết tay */
+  --fs-body: 14px;
+}
