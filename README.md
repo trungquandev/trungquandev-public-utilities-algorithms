@@ -25,7 +25,8 @@ My Utilities & Algorithms code library for work and training! - https://youtube.
 21. Unit Test Front-end với React + TypeScript + Jest - Dự án thực tế, nâng cao, chuyên nghiệp https://www.youtube.com/playlist?list=PLP6tw4Zpj-RKmOgzS2e89qiw9aCXfER7u
 22. Unit Test back-end với NodeJS + TypeScript + Jest - Dự án thực tế, nâng cao, chuyên nghiệp https://www.youtube.com/playlist?list=PLP6tw4Zpj-RIAVsMR_CMa-rKD9WkDYbYk
 23. HTML CSS Master AZ Lesson 50 - Chuẩn bị Init dự án. https://www.youtube.com/playlist?list=PLP6tw4Zpj-RK-A2xwiIKlVAXeO8TUxQCh
-24. Coming soon...vv
+24. HTML CSS Master AZ Lesson 54 - Code phần Main Right (Skill, Ability) https://www.youtube.com/playlist?list=PLP6tw4Zpj-RK-A2xwiIKlVAXeO8TUxQCh
+25. Coming soon...vv
 
 ---
 
